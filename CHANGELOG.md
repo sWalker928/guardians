@@ -4,3 +4,4 @@
 
 - Initial release
 - fix: clarify the setup steps
+- docs: fix a small wording issue
