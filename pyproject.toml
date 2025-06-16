@@ -4,3 +4,4 @@ version = "0.1.0"
 description = "an implementation of the ideas in Erik Meijer's "Guardians of the Agents: Formal Verification of AI Workflows" (Communications of the ACM, January 2026)"
 requires-python = ">=3.10"
 # drop an unused branch
+# match the style used in the rest of the module
